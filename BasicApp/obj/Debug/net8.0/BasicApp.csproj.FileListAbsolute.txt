@@ -1,0 +1,14 @@
+C:\C#\DotnetTraining\BasicApp\bin\Debug\net8.0\BasicApp.exe
+C:\C#\DotnetTraining\BasicApp\bin\Debug\net8.0\BasicApp.deps.json
+C:\C#\DotnetTraining\BasicApp\bin\Debug\net8.0\BasicApp.runtimeconfig.json
+C:\C#\DotnetTraining\BasicApp\bin\Debug\net8.0\BasicApp.dll
+C:\C#\DotnetTraining\BasicApp\bin\Debug\net8.0\BasicApp.pdb
+C:\C#\DotnetTraining\BasicApp\obj\Debug\net8.0\BasicApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\DotnetTraining\BasicApp\obj\Debug\net8.0\BasicApp.AssemblyInfoInputs.cache
+C:\C#\DotnetTraining\BasicApp\obj\Debug\net8.0\BasicApp.AssemblyInfo.cs
+C:\C#\DotnetTraining\BasicApp\obj\Debug\net8.0\BasicApp.csproj.CoreCompileInputs.cache
+C:\C#\DotnetTraining\BasicApp\obj\Debug\net8.0\BasicApp.dll
+C:\C#\DotnetTraining\BasicApp\obj\Debug\net8.0\refint\BasicApp.dll
+C:\C#\DotnetTraining\BasicApp\obj\Debug\net8.0\BasicApp.pdb
+C:\C#\DotnetTraining\BasicApp\obj\Debug\net8.0\BasicApp.genruntimeconfig.cache
+C:\C#\DotnetTraining\BasicApp\obj\Debug\net8.0\ref\BasicApp.dll
