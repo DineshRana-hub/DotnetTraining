@@ -1,9 +1,6 @@
- class Admin : Person{
-    public Admin(string n,  DateTime d, char g, string r) : base(n, d, g)
-    {   
-        Role= r;  
-    }
-    public string Role="";
+ class Admin(string n,  DateTime d, char g, string r)  : Person(n, d, g){
+   
+    public string Role=r;
   
      public override void PrintDetails()
     {
