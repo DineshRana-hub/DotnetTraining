@@ -12,3 +12,4 @@ C:\C#\DotnetTraining\BasicApp\obj\Debug\net8.0\refint\BasicApp.dll
 C:\C#\DotnetTraining\BasicApp\obj\Debug\net8.0\BasicApp.pdb
 C:\C#\DotnetTraining\BasicApp\obj\Debug\net8.0\BasicApp.genruntimeconfig.cache
 C:\C#\DotnetTraining\BasicApp\obj\Debug\net8.0\ref\BasicApp.dll
+C:\C#\DotnetTraining\BasicApp\obj\Debug\net8.0\BasicApp.sourcelink.json

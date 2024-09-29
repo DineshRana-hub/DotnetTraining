@@ -42,6 +42,6 @@ var teacher2 = new Teacher("Rakeesh Rana", "MS Computer Science", new DateTime(2
 teacher2.PrintDetails();
 
 Admin.PrintHeader();
-var admin = new Admin("Robin", new DateTime(2000, 1, 11), 'M',"Admin");
+var admin = new Admin("Robin", new DateTime(2000, 1, 11), 'M',"IT");
 admin.PrintDetails();
 
