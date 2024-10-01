@@ -24,24 +24,29 @@ Console.WriteLine("Hello, World!");
 // James Bond      0       Thursday, January 11, 1990   M
 
 
-Student.PrintHeader();
+// Student.PrintHeader();
 
-var student = new Student("Sita Bond", 68, new DateTime(1990, 1, 11), 'F');
-student.PrintDetails();
+// var student = new Student("Sita Bond", 68, new DateTime(1990, 1, 11), 'F');
+// student.PrintDetails();
 
-var student3 = new Student("James Bond", 67, new DateTime(1990, 1, 11), 'F');
-student3.PrintDetails();
+// var student3 = new Student("James Bond", 67, new DateTime(1990, 1, 11), 'F');
+// student3.PrintDetails();
 
-var student4 = new Student("Rakeesh Bond", 798, new DateTime(2000, 1, 11), 'M');
-student4.PrintDetails();
+// var student4 = new Student("Rakeesh Bond", 798, new DateTime(2000, 1, 11), 'M');
+// student4.PrintDetails();
 
-Teacher.PrintHeader();
-var teacher1 = new Teacher("Rakeesh Rana", "MS Computer Science", new DateTime(2000, 1, 11), 'M');
-teacher1.PrintDetails();
-var teacher2 = new Teacher("Rakeesh Rana", "MS Computer Science", new DateTime(2000, 1, 11), 'M');
-teacher2.PrintDetails();
+// Teacher.PrintHeader();
+// var teacher1 = new Teacher("Rakeesh Rana", "MS Computer Science", new DateTime(2000, 1, 11), 'M');
+// teacher1.PrintDetails();
+// var teacher2 = new Teacher("Rakeesh Rana", "MS Computer Science", new DateTime(2000, 1, 11), 'M');
+// teacher2.PrintDetails();
 
-Admin.PrintHeader();
-var admin = new Admin("Robin", new DateTime(2000, 1, 11), 'M',"IT");
-admin.PrintDetails();
+// Admin.PrintHeader();
+// var admin = new Admin("Robin", new DateTime(2000, 1, 11), 'M',"IT");
+// admin.PrintDetails();
+ 
+ FileAndFolderHandeler fd = new();
+//fd.CreateFile();
+//fd.ReadFile();
+fd.CreateFolder("ABC");
 
