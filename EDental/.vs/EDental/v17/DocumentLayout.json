@@ -1,0 +1,352 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C#\\DotnetTraining\\EDental\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18DD3032-D5DB-4FE5-ACBC-873A0729844D}|EDental.csproj|c:\\c#\\dotnettraining\\edental\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DD3032-D5DB-4FE5-ACBC-873A0729844D}|EDental.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040965E7-2C14-4524-91AA-7D03A78C02A4}|..\\EDental.Infrastracture\\EDental.Infrastracture.csproj|c:\\c#\\dotnettraining\\edental.infrastracture\\repositories\\implementaion\\doctorsrepsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DD3032-D5DB-4FE5-ACBC-873A0729844D}|EDental.csproj|c:\\c#\\dotnettraining\\edental\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DD3032-D5DB-4FE5-ACBC-873A0729844D}|EDental.csproj|solutionrelative:controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F6D6F95-8993-45A5-BE00-619A1690D127}|..\\EDental.Api\\EDental.Api.csproj|c:\\c#\\dotnettraining\\edental.api\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040965E7-2C14-4524-91AA-7D03A78C02A4}|..\\EDental.Infrastracture\\EDental.Infrastracture.csproj|c:\\c#\\dotnettraining\\edental.infrastracture\\repositories\\interfaces\\idoctorsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F6D6F95-8993-45A5-BE00-619A1690D127}|..\\EDental.Api\\EDental.Api.csproj|c:\\c#\\dotnettraining\\edental.api\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DD3032-D5DB-4FE5-ACBC-873A0729844D}|EDental.csproj|c:\\c#\\dotnettraining\\edental\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18DD3032-D5DB-4FE5-ACBC-873A0729844D}|EDental.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DD3032-D5DB-4FE5-ACBC-873A0729844D}|EDental.csproj|c:\\c#\\dotnettraining\\edental\\controllers\\procurementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DD3032-D5DB-4FE5-ACBC-873A0729844D}|EDental.csproj|solutionrelative:controllers\\procurementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040965E7-2C14-4524-91AA-7D03A78C02A4}|..\\EDental.Infrastracture\\EDental.Infrastracture.csproj|c:\\c#\\dotnettraining\\edental.infrastracture\\data\\models\\procurement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040965E7-2C14-4524-91AA-7D03A78C02A4}|..\\EDental.Infrastracture\\EDental.Infrastracture.csproj|c:\\c#\\dotnettraining\\edental.infrastracture\\data\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040965E7-2C14-4524-91AA-7D03A78C02A4}|..\\EDental.Infrastracture\\EDental.Infrastracture.csproj|c:\\c#\\dotnettraining\\edental.infrastracture\\data\\migrations\\edentaldbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040965E7-2C14-4524-91AA-7D03A78C02A4}|..\\EDental.Infrastracture\\EDental.Infrastracture.csproj|c:\\c#\\dotnettraining\\edental.infrastracture\\data\\edentaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DD3032-D5DB-4FE5-ACBC-873A0729844D}|EDental.csproj|c:\\c#\\dotnettraining\\edental\\controllers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18DD3032-D5DB-4FE5-ACBC-873A0729844D}|EDental.csproj|solutionrelative:controllers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DD3032-D5DB-4FE5-ACBC-873A0729844D}|EDental.csproj|c:\\c#\\dotnettraining\\edental\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18DD3032-D5DB-4FE5-ACBC-873A0729844D}|EDental.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DD3032-D5DB-4FE5-ACBC-873A0729844D}|EDental.csproj|c:\\c#\\dotnettraining\\edental\\views\\doctors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18DD3032-D5DB-4FE5-ACBC-873A0729844D}|EDental.csproj|solutionrelative:views\\doctors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DD3032-D5DB-4FE5-ACBC-873A0729844D}|EDental.csproj|c:\\c#\\dotnettraining\\edental\\controllers\\diagnosescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DD3032-D5DB-4FE5-ACBC-873A0729844D}|EDental.csproj|solutionrelative:controllers\\diagnosescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DD3032-D5DB-4FE5-ACBC-873A0729844D}|EDental.csproj|c:\\c#\\dotnettraining\\edental\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18DD3032-D5DB-4FE5-ACBC-873A0729844D}|EDental.csproj|solutionrelative:pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DD3032-D5DB-4FE5-ACBC-873A0729844D}|EDental.csproj|c:\\c#\\dotnettraining\\edental\\controllers\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DD3032-D5DB-4FE5-ACBC-873A0729844D}|EDental.csproj|solutionrelative:controllers\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{040965E7-2C14-4524-91AA-7D03A78C02A4}|..\\EDental.Infrastracture\\EDental.Infrastracture.csproj|c:\\c#\\dotnettraining\\edental.infrastracture\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DD3032-D5DB-4FE5-ACBC-873A0729844D}|EDental.csproj|c:\\c#\\dotnettraining\\edental\\edental.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{18DD3032-D5DB-4FE5-ACBC-873A0729844D}|EDental.csproj|solutionrelative:edental.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DD3032-D5DB-4FE5-ACBC-873A0729844D}|EDental.csproj|c:\\c#\\dotnettraining\\edental\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{18DD3032-D5DB-4FE5-ACBC-873A0729844D}|EDental.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 260,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IDoctorsRepository.cs",
+              "DocumentMoniker": "C:\\C#\\DotnetTraining\\EDental.Infrastracture\\Repositories\\Interfaces\\IDoctorsRepository.cs",
+              "RelativeDocumentMoniker": "..\\EDental.Infrastracture\\Repositories\\Interfaces\\IDoctorsRepository.cs",
+              "ToolTip": "C:\\C#\\DotnetTraining\\EDental.Infrastracture\\Repositories\\Interfaces\\IDoctorsRepository.cs",
+              "RelativeToolTip": "..\\EDental.Infrastracture\\Repositories\\Interfaces\\IDoctorsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T16:42:56.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DoctorsController.cs",
+              "DocumentMoniker": "C:\\C#\\DotnetTraining\\EDental.Api\\Controllers\\DoctorsController.cs",
+              "RelativeDocumentMoniker": "..\\EDental.Api\\Controllers\\DoctorsController.cs",
+              "ToolTip": "C:\\C#\\DotnetTraining\\EDental.Api\\Controllers\\DoctorsController.cs",
+              "RelativeToolTip": "..\\EDental.Api\\Controllers\\DoctorsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T16:40:05.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoctorsRepsitory.cs",
+              "DocumentMoniker": "C:\\C#\\DotnetTraining\\EDental.Infrastracture\\Repositories\\Implementaion\\DoctorsRepsitory.cs",
+              "RelativeDocumentMoniker": "..\\EDental.Infrastracture\\Repositories\\Implementaion\\DoctorsRepsitory.cs",
+              "ToolTip": "C:\\C#\\DotnetTraining\\EDental.Infrastracture\\Repositories\\Implementaion\\DoctorsRepsitory.cs",
+              "RelativeToolTip": "..\\EDental.Infrastracture\\Repositories\\Implementaion\\DoctorsRepsitory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T02:52:55.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DoctorsController.cs",
+              "DocumentMoniker": "C:\\C#\\DotnetTraining\\EDental\\Controllers\\DoctorsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DoctorsController.cs",
+              "ToolTip": "C:\\C#\\DotnetTraining\\EDental\\Controllers\\DoctorsController.cs",
+              "RelativeToolTip": "Controllers\\DoctorsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T13:24:16.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C#\\DotnetTraining\\EDental\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\C#\\DotnetTraining\\EDental\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T14:25:54.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\C#\\DotnetTraining\\EDental.Api\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "..\\EDental.Api\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\C#\\DotnetTraining\\EDental.Api\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "..\\EDental.Api\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T16:29:15.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\C#\\DotnetTraining\\EDental.Infrastracture\\Data\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "..\\EDental.Infrastracture\\Data\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\C#\\DotnetTraining\\EDental.Infrastracture\\Data\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "..\\EDental.Infrastracture\\Data\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T15:21:24.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProcurementsController.cs",
+              "DocumentMoniker": "C:\\C#\\DotnetTraining\\EDental\\Controllers\\ProcurementsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProcurementsController.cs",
+              "ToolTip": "C:\\C#\\DotnetTraining\\EDental\\Controllers\\ProcurementsController.cs",
+              "RelativeToolTip": "Controllers\\ProcurementsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T15:42:52.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Procurement.cs",
+              "DocumentMoniker": "C:\\C#\\DotnetTraining\\EDental.Infrastracture\\Data\\Models\\Procurement.cs",
+              "RelativeDocumentMoniker": "..\\EDental.Infrastracture\\Data\\Models\\Procurement.cs",
+              "ToolTip": "C:\\C#\\DotnetTraining\\EDental.Infrastracture\\Data\\Models\\Procurement.cs",
+              "RelativeToolTip": "..\\EDental.Infrastracture\\Data\\Models\\Procurement.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T13:26:11.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\C#\\DotnetTraining\\EDental\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\C#\\DotnetTraining\\EDental\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAADwvzEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T15:09:49.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EDentalDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\C#\\DotnetTraining\\EDental.Infrastracture\\Data\\Migrations\\EDentalDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "..\\EDental.Infrastracture\\Data\\Migrations\\EDentalDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\C#\\DotnetTraining\\EDental.Infrastracture\\Data\\Migrations\\EDentalDbContextModelSnapshot.cs",
+              "RelativeToolTip": "..\\EDental.Infrastracture\\Data\\Migrations\\EDentalDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T15:20:07.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\C#\\DotnetTraining\\EDental\\Views\\Doctors\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Doctors\\Index.cshtml",
+              "ToolTip": "C:\\C#\\DotnetTraining\\EDental\\Views\\Doctors\\Index.cshtml",
+              "RelativeToolTip": "Views\\Doctors\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T15:02:19.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\C#\\DotnetTraining\\EDental\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\C#\\DotnetTraining\\EDental\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T15:01:15.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\C#\\DotnetTraining\\EDental\\Controllers\\Index.cshtml",
+              "RelativeDocumentMoniker": "Controllers\\Index.cshtml",
+              "ToolTip": "C:\\C#\\DotnetTraining\\EDental\\Controllers\\Index.cshtml",
+              "RelativeToolTip": "Controllers\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T14:58:07.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EDentalDbContext.cs",
+              "DocumentMoniker": "C:\\C#\\DotnetTraining\\EDental.Infrastracture\\Data\\EDentalDbContext.cs",
+              "RelativeDocumentMoniker": "..\\EDental.Infrastracture\\Data\\EDentalDbContext.cs",
+              "ToolTip": "C:\\C#\\DotnetTraining\\EDental.Infrastracture\\Data\\EDentalDbContext.cs",
+              "RelativeToolTip": "..\\EDental.Infrastracture\\Data\\EDentalDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T12:17:11.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DiagnosesController.cs",
+              "DocumentMoniker": "C:\\C#\\DotnetTraining\\EDental\\Controllers\\DiagnosesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DiagnosesController.cs",
+              "ToolTip": "C:\\C#\\DotnetTraining\\EDental\\Controllers\\DiagnosesController.cs",
+              "RelativeToolTip": "Controllers\\DiagnosesController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T15:09:10.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\C#\\DotnetTraining\\EDental\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Pages\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\C#\\DotnetTraining\\EDental\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Pages\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T14:58:07.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\C#\\DotnetTraining\\EDental.Infrastracture\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "..\\EDental.Infrastracture\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\C#\\DotnetTraining\\EDental.Infrastracture\\Properties\\launchSettings.json",
+              "RelativeToolTip": "..\\EDental.Infrastracture\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-07T14:46:53.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\C#\\DotnetTraining\\EDental\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\C#\\DotnetTraining\\EDental\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-07T14:33:57.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\C#\\DotnetTraining\\EDental\\Controllers\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Controllers\\Index.cshtml.cs",
+              "ToolTip": "C:\\C#\\DotnetTraining\\EDental\\Controllers\\Index.cshtml.cs",
+              "RelativeToolTip": "Controllers\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T14:58:07.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EDental.csproj",
+              "DocumentMoniker": "C:\\C#\\DotnetTraining\\EDental\\EDental.csproj",
+              "RelativeDocumentMoniker": "EDental.csproj",
+              "ToolTip": "C:\\C#\\DotnetTraining\\EDental\\EDental.csproj",
+              "RelativeToolTip": "EDental.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-07T14:25:00.585Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

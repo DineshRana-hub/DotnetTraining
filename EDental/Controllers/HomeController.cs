@@ -1,6 +1,6 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using EDental.Models;
+using EDental.Data.Models;
 
 namespace EDental.Controllers;
 
@@ -18,7 +18,7 @@ public class HomeController : Controller
         return View();
     }
 
-    public IActionResult Privacy()
+    public IActionResult Services()
     {
         return View();
     }
